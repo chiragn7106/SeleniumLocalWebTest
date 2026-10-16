@@ -1,4 +1,4 @@
-name: Selenium Java Tests & Docker Publish
+
 
 on:
   push:
